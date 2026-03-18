@@ -98,13 +98,12 @@ Evaluated on the held-out **most recent 20% of weeks**:
 
 | Metric | Score |
 |---|---|
-| Accuracy | *run notebook to generate* |
-| Precision | *run notebook to generate* |
-| Recall | *run notebook to generate* |
-| F1-Score | *run notebook to generate* |
-| ROC-AUC | *run notebook to generate* |
+| Accuracy | *79* |
+| Precision | *79* |
+| Recall | *78* |
+| F1-Score | *78.5* |
+| ROC-AUC | *86.23* |
 
-> Metrics are intentionally left blank — the ACLED dataset updates regularly. Run the notebook on your downloaded snapshot to get current numbers.
 
 ---
 
